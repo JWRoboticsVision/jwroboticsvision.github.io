@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jwroboticsvision
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - IRVLUTD/HO-Cap
+  - IRVLUTD/HO-Cap-Annotation
+  - CaptainCook4D/CaptainCook4D
+  - IRVLUTD/iTeach
+  - IRVLUTD/FoundationPoseROS
+  - IRVLUTD/label-toolkit
+  - JWRoboticsVision/mano_urdf
+  - JWRoboticsVision/CAST-STEM-2025
+  - IRVLUTD/CAST-STEM-2024
+  - neilsong/hand-detection-reconstruction

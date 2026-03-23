@@ -1,9 +1,30 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Under Review #6c757d (Bootstrap gray)
+# arXiv #b31b1b (arXiv red)
+# CV / Vision (ACCV, CVPR, ICCV, ECCV) #009f36 (CVF style green)
+# NeurIPS #7a3db8 (NeurIPS purple)
+# IEEE (VR, ICRA, etc.) #00629b (IEEE blue)
 
-"PhysRev":
-  url: https://journals.aps.org/
 
-"Vision":
+"Under Review":
+  url: https://arxiv.org/
+  color: "#6c757d"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"ACCV 2022":
+  url: https://openaccess.thecvf.com/ACCV2022/
   color: "#009f36"
+
+"IEEE VR 2024":
+  url: https://ieeevr.org/2024/
+  color: "#00629b"
+
+"NeurIPS 2024":
+  url: https://neurips.cc/Conferences/2024/
+  color: "#7a3db8"
+
+"NeurIPS 2025":
+  url: https://neurips.cc/Conferences/2025/
+  color: "#7a3db8"

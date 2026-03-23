@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: true
-nav_order: 1
+title: Blog
+nav: false
+nav_order: 3
 pagination:
-  enabled: true
+  enabled: false
   collection: posts
   permalink: /page/:num/
   per_page: 5
