@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-# permalink: /#publications # Create a Link to Jump to a Specific Part of a Page
+# permalink: /publications/
+permalink: /#publications # Create a Link to Jump to a Specific Part of a Page
 title: Publications
 # description: publications by categories in reversed chronological order.
 nav: true

@@ -12,7 +12,13 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-teaching: false # includes a section for teaching courses, lectures, and lab seminar talks
+teaching: true # includes a section for teaching courses, lectures, and lab seminar talks
+
+projects:
+  enabled: true # includes a list of news items
+  display_categories: [SummerCamp]
+  horizontal: false
+
 
 announcements:
   enabled: true # includes a list of news items

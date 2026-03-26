@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /#projects
+# description:
 nav: true
 nav_order: 2
 display_categories: [Work, SummerCamp, Other]
