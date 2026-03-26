@@ -14,14 +14,21 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/#publications";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/#projects";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "courses, lectures and lab seminar talks.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/#teaching";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
