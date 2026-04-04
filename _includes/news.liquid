@@ -19,7 +19,26 @@
             <th scope="row" style="width: 15%">{{ item.date | date: '%b %Y' }}</th>
             <td>
               {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                <div class="row" style="margin: 0;">
+                  <!-- Text -->
+                  <div class="{% if item.img %}col-sm{% else %}col-sm-12{% endif %}">
+                    {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                  </div>
+                  <!-- Image -->
+                  {% if item.img %}
+                    <div class="col-sm-2">
+                      {%
+                        include figure.liquid
+                        loading="eager"
+                        path=item.img
+                        width="100%"
+                        class="z-depth-1 rounded"
+                        zoomable=true
+                        avoid_scaling=true
+                      %}
+                    </div>
+                  {% endif %}
+                </div>
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
