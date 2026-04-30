@@ -28,3 +28,7 @@
 "NeurIPS 2025":
   url: https://neurips.cc/Conferences/2025/
   color: "#7a3db8"
+
+"RSS 2026":
+  url: https://roboticsconference.org/
+  color: "#00629b"
