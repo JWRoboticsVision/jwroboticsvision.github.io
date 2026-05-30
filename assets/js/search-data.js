@@ -52,12 +52,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-the-computer-graphics-lab-at-the-university-of-texas-at-dallas-as-a-m-s-student-v",
+      },{id: "news-i-joined-the-computer-graphics-lab-at-the-university-of-texas-at-dallas-as-a-m-s-student-v",
           title: 'I joined the Computer Graphics Lab at the University of Texas at Dallas...',
           description: "",
           section: "News",},{id: "news-our-supervised-team-of-high-school-students-received-the-1st-prize-cast-star-award-in-cast-stem-bridge-summer-camp-2021-1st-place-medal",
