@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-17'
 papers:
   QKxqMRcAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'iTeach: Interactive Teaching for Robot Perception using Mixed Reality'
     year: '2024'
   QKxqMRcAAAAJ:9yKSN-GCB0IC:
-    citations: 19
+    citations: 20
     title: 'Ho-cap: A capture system and dataset for 3d reconstruction and pose tracking of hand-object interaction'
     year: '2026'
   QKxqMRcAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Multimodal Reference Visual Grounding
     year: '2025'
   QKxqMRcAAAAJ:d1gkVwhDpl0C:
-    citations: 41
+    citations: 42
     title: 'Captaincook4d: A dataset for understanding errors in procedural activities'
     year: '2024'
   QKxqMRcAAAAJ:u-x6o8ySG0sC:
